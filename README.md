@@ -1,7 +1,7 @@
 <!-- Heading 1 -->
 # Welcome to Red River Gorge
 
-<!-- 😀 Yay! -->
+<!-- 😀 Yay!! -->
 
 <!-- First paragraph -->
 Waterfalls and interesting points along the way
