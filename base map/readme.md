@@ -17,3 +17,5 @@ Pine Trees by the Arch.
 The view through the arch from behind the rock shelter. 
 ![Looking Through Again](https://live.staticflickr.com/65535/33874171898_2f3b63ab45_k.jpg)  
   
+I seriously contemplated climbing the rock shelter - I decided not to by myself.
+![Looking Up at the Rock Shelter](https://live.staticflickr.com/65535/47751191101_11c15e2929_z.jpg)
