@@ -1,6 +1,7 @@
 # Field Report
 # Amanda Breseman - April 13, 2019 - Whistling Arch
-I chose to visit Whistling Arch for my field visit. It was a very accessible trail with some interesting plants along the way. From the small parking lot, the ridgetop trail is .25 miles long and finishes to a large rock shelter with a buttress-type arch. The view to the south from the sandy overlook is quite beautiful. 
+I chose to visit Whistling Arch for my field visit. It was a very accessible trail with some interesting plants along the way. From the small parking lot, the ridgetop trail is .25 miles long and finishes to a large rock shelter with a buttress-type arch. The view to the south from the sandy overlook is quite beautiful. The information on the Avenza map was pretty accurate.
+
 
 Looking through the arch from under the rock shelter. 
 ![Looking Through the Whistling Arch](https://live.staticflickr.com/65535/33874170078_226eb9fd87_k.jpg)   
