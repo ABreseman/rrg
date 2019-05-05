@@ -3,7 +3,7 @@
 
 <!-- First paragraph -->
 Nearby Cliffs over 40ft.
-![Caption of map](map.jpg)
+![Whistling Arch Cliffs](map.jpg)
 
 <!-- Heading 2 -->
-Add a link to your online video from Part II in the readme.md in Markdown markup: [Bird's Eye View of Whistling Arch Trail](URL: https://player.vimeo.com/video/334271896)
+![Bird's Eye View of Whistling Arch Trail](URL: https://player.vimeo.com/video/334271896)
